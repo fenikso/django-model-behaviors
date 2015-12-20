@@ -1,2 +1,2 @@
-django-model-behaviors
+django-modelables
 ======================
